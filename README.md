@@ -7,6 +7,7 @@ The purpose of this analysis was to use JavaScript, HTML, and CSS to create a cl
 ## Results
 
 ![Capture.PNG](static/images/Capture.PNG)
+
 The webpage features the ability to filter the UFO sighting data using 5 different attributes: date, city, state, country, and UFO shape. When an attribute is entered (for example, "TX" for state) the table will automatically update itself to only show UFO sightings that took place in Texas.
 
 ## Summary
